@@ -13,7 +13,7 @@ O Tornado Food é um projeto colaborativo desenvolvido por um grupo de 3 estudan
 - **Equipe:**
   - Jhonatan De Mello Somera - Desenvolvedor Frontend
   - João Ricardo De Souza Gomes - Desenvolvedor Backend
-  - Isabella Bomfim Scapolan - Designer UI/UX
+  - Isabella Bomfim Scapolan - Designer
 
 ## Licença
 

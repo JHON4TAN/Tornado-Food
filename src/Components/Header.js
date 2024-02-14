@@ -5,9 +5,9 @@ import { BarChart, SearchRounded, ShoppingCartRounded } from '@mui/icons-materia
 function Header() {
   return <header>
     <img 
-    src="" 
+    src="https://firebasestorage.googleapis.com/v0/b/tornado-food.appspot.com/o/Logo-Tornado.png?alt=media&token=c8e68686-b306-48f1-b0d0-d683e5813043" 
     alt="" 
-    className=""
+    className="logo"
     />
 
     <div className="inputBox">
@@ -22,13 +22,16 @@ function Header() {
         </div>
     </div>
 
-    <div classname="profileContainer">
-        <div classname="imgBox">
-            <img src="" alt="" />
-        </div>
-
-        <h2 classname="username">TornadoFood</h2>
+    <div class="profileContainer">
+      <div class="imgBox">
+        <img src="https://firebasestorage.googleapis.com/v0/b/tornado-food.appspot.com/o/Brabos-do-Mequi-novos-lanches-mcdonalds.jpg?alt=media&token=c15fdac9-d0e7-4cf4-8d61-c0587938205c" 
+        alt="" 
+        class="profilePic"
+        />
+      </div>
+            <h2 class="userName">TornadoFood</h2>
     </div>
+
 
     <div className="toggleMenu">
       <BarChart className="toggleIcon" />
